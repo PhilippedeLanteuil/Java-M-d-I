@@ -13,7 +13,7 @@ public class Clientes {
     private String email;
     private String telefone;
     
-    public void setnome(String sNome)
+    public void setNome(String sNome)
     {
         this.nome = sNome;
     }
