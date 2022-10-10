@@ -17,15 +17,15 @@ public class Clientes {
     {
         this.nome = sNome;
     }
-     public void setendereco(String sEndereco)
+     public void setEndereco(String sEndereco)
     {
         this.endereco = sEndereco;
     }
-      public void setemail(String sEmail)
+      public void setEmail(String sEmail)
     {
         this.email = sEmail;
     }
-       public void settelefone(String sTelefone)
+       public void setTelefone(String sTelefone)
     {
         this.telefone = sTelefone;
     }
