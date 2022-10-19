@@ -13,19 +13,19 @@ public class Clientes {
     private String email;
     private String telefone;
     
-    public void setNome(String sNome)
+    public void setnome(String sNome)
     {
         this.nome = sNome;
     }
-     public void setEndereco(String sEndereco)
+     public void setendereco(String sEndereco)
     {
         this.endereco = sEndereco;
     }
-      public void setEmail(String sEmail)
+      public void setemail(String sEmail)
     {
         this.email = sEmail;
     }
-       public void setTelefone(String sTelefone)
+       public void settelefone(String sTelefone)
     {
         this.telefone = sTelefone;
     }
